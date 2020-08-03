@@ -4,3 +4,5 @@
 
 checking SCM POll with changes
 testing 2nd changes for JSP
+
+Checking SCM Poll on Aug 2
